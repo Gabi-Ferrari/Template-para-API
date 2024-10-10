@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 1
 >Colocar o vídeo da apresentação
 
-[![SPRINT 1] (https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx)
+[![SPRINT 1](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx)
 
 
 ## Sprint 2
