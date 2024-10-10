@@ -40,9 +40,8 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/c5311bf0-b065-4c1b-a072-c8c627e0f463)
+
 
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
