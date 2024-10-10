@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+0# Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
@@ -39,7 +39,6 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
