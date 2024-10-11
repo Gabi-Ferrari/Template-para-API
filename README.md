@@ -44,7 +44,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>Nosso projeto tem como finalidade compreender e aprimorar técnicas de gerenciamento por meio de uma startup que comercializa quatro modelos distintos de smartphones. A iniciativa busca colocar em prática estratégias de gestão, tanto no âmbito comercial quanto na gestão pessoal, permitindo o desenvolvimento de habilidades práticas e a análise dos resultados obtidos.
 
 # Funcionalidades e Demonstrações das Sprints
 
