@@ -1,7 +1,3 @@
-0# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -80,8 +76,24 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+
+### GitHub: Controle de versão e colaboração em projetos.
+
+### 3DExperience: Plataforma para design e engenharia colaborativa.
+
+### Microsoft Teams: Comunicação e colaboração em equipe.
+
+### Canva:  Criação de designs gráficos e apresentações.
+
+### Excel : Análise de dados e gestão de planilhas.
+
+### Power BI: Visualização de dados e relatórios interativos.
+
+### Google Apresentações: Criação de apresentações online.
+
+### Google Planilhas: Edição e colaboração em planilhas na nuvem.
+
+
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
