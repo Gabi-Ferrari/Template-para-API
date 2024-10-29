@@ -49,31 +49,31 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
+>PPT da apresentação
 
 [![SPRINT 1](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx)
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
+>PPT da apresentação
 
 [![SPRINT 2](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%202/anexo_5a_modelo_tg.docx.1.docx)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
+>PPT da apresentação
 
 [![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
+>PPT da apresentação
 
 [![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+>PPT da apresentação
 
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
@@ -160,6 +160,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner- Gabriela | | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master-Mikaele| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member- Ana, Karoline e Lucas silva| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
