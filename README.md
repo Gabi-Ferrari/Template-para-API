@@ -57,7 +57,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 2](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%202/anexo_5a_modelo_tg.docx.1.docx)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
