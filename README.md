@@ -49,9 +49,10 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->PPT da apresentação
+>Cronograma, Grafico de GANTT
 
-[![SPRINT 1](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx)
+[![image](https://github.com/user-attachments/assets/859030c3-1c5f-4216-8a75-075536d3894e)
+](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx)
 
 
 ## Sprint 2
