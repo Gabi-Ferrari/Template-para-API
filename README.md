@@ -110,17 +110,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
 # Competências desenvolvidas
