@@ -52,14 +52,15 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Sprint 2
->PPT da apresentação
+>Cronograma, Grafico de GANTT
 
-[![SPRINT 2](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%202/anexo_5a_modelo_tg.docx.1.docx)
+![image](https://github.com/user-attachments/assets/d8cd07c8-7f13-46f2-ab55-61eb441bfcdb)
 
 ## Sprint 3
->PPT da apresentação
+>Cronograma, Grafico de GANTT
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![image](https://github.com/user-attachments/assets/36d8113b-b49f-42cc-b343-9293ea6b2483)
+
 
 
 ## Sprint 4
