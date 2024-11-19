@@ -132,16 +132,24 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
+
+
+Análise de Dados e Big Data: Uso de dados para otimizar processos.
+Sustentabilidade e Eficiência Energética: Práticas de produção sustentável e uso eficiente de energia.
+Tecnologias Emergentes: Conhecimento de inovações como IoT, IA e impressão 3D.
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
+| Gestão de Processos Industriais | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Engenharia de Produção | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Automação e Controle Industrial | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Desenvolvimento de Produtos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão da Qualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Tecnologia de Materiais | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Logística e Cadeia de Suprimentos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise de Dados | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Tecnologias Emergentes | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 </details>
 
 ## Soft Skill (saber comportamental)
@@ -150,12 +158,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Resolução de Problemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Liderança | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão do Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Empatia: | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Conflitos: | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
