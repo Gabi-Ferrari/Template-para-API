@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 03/09/2024 | concluido| [Ver Relatório](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx) | 
 |01 | 24/09/2024 | concluido| [Ver Relatório](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%201/Projeto-Integrador-Salestech.pptx) | 
 |02|  15/10/2024| concluida |[Ver Relatório](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%202/anexo_5a_modelo_tg.docx.1.docx) | 
-|03| 05/11/2024 | concluida |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 05/11/2024 | concluida |[Ver Relatório](https://github.com/Gabi-Ferrari/Template-para-API/blob/main/Sprint%203/Relatorio%20REVISAO1%201.docx) | 
 |04| 26/11/2024 |Em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
