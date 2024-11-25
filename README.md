@@ -37,6 +37,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 ![image](https://github.com/user-attachments/assets/c5311bf0-b065-4c1b-a072-c8c627e0f463)
+![image](https://github.com/user-attachments/assets/0997f016-019e-4a2c-b5dd-c1eabc101848)
+
 
 
 # Objetivo do Projeto
@@ -140,15 +142,15 @@ Tecnologias Emergentes: Conhecimento de inovações como IoT, IA e impressão 3D
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Gestão de Processos Industriais | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Engenharia de Produção | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Automação e Controle Industrial | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Desenvolvimento de Produtos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão da Qualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Tecnologia de Materiais | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Logística e Cadeia de Suprimentos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Análise de Dados | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Tecnologias Emergentes | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Processos Industriais | ★ ★ ★ ☆ ☆ |
+| Engenharia de Produção | ★ ★ ★ ★ ☆ |
+| Automação e Controle Industrial | ★ ★ ☆ ☆ ☆ |
+| Desenvolvimento de Produtos | ★ ★ ★ ★ ★  |
+| Gestão da Qualidade | ★ ★ ★ ★ ☆ |
+| Tecnologia de Materiais | ★ ★ ★ ★ ★ |
+| Logística e Cadeia de Suprimentos | ★ ★ ★ ★ ★ |
+| Análise de Dados | ★ ★ ★ ★ ☆ |
+| Tecnologias Emergentes | ★ ★ ☆ ☆ ☆ |
 
 </details>
 
@@ -158,15 +160,15 @@ Tecnologias Emergentes: Conhecimento de inovações como IoT, IA e impressão 3D
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Resolução de Problemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Liderança | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão do Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Empatia: | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Conflitos: | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ☆ ☆ ☆ |
+| Resolução de Problemas | ★ ★ ☆ ☆ ☆ |
+| Liderança | ★ ★ ☆ ☆ ☆ |
+| Gestão do Tempo | ★ ★ ★ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★  |
+| Adaptabilidade | ★ ★ ★ ★ ★  |
+| Empatia: | ★ ★ ★ ★ ★ |
+| Gestão de Conflitos: | ★ ★ ★ ★ ★  |
 
 </details>
 
