@@ -66,9 +66,10 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Sprint 4
->PPT da apresentação
+>Cronograma, Grafico de GANTT
 
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![{58F5C734-B4BD-4F96-A41C-0D91DFF88CAC}](https://github.com/user-attachments/assets/825203d2-0234-48eb-ac0d-4b73400015b2)
+
 
 
 ## Apresentação final (se necessario)
@@ -101,8 +102,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+
 
 # Cronograma das Sprints
 
@@ -129,7 +129,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Ao longo deste trabalho, tivemos a oportunidade de desenvolver uma série de habilidades importantes, incluindo:
+
+Gestão de Processos: Planejamento e organização das etapas necessárias para alcançar os objetivos propostos, otimizando tempo e recursos.
+Gestão de Pessoas: Liderança, comunicação eficaz e promoção de um ambiente colaborativo dentro da equipe.
+Gerenciamento de Conflitos: Resolução de divergências de forma estratégica, garantindo harmonia e foco nos resultados.
+Informática: Uso de ferramentas tecnológicas para organizar, executar e apresentar os resultados do trabalho.
+Linguagem e Comunicação: Melhoria na clareza e assertividade na expressão oral e escrita, essencial para interações internas e externas.
+Pensamento Crítico: Análise e solução de problemas de maneira criativa e fundamentada.
+Trabalho em Equipe: Valorização da diversidade de ideias e divisão de tarefas para alcançar metas coletivas.
+Adaptabilidade: Capacidade de ajustar estratégias e abordagens diante de desafios ou mudanças no escopo do projeto.
+Essas competências não apenas enriqueceram a execução do trabalho, mas também contribuirão significativamente para nossa atuação em projetos futuros e para o desenvolvimento pessoal e profissional.
 
 ## Hard Skill (saber tecnológico)
 <details>
