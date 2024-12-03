@@ -65,7 +65,9 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 4
 >Cronograma, Grafico de GANTT
 
-![{58F5C734-B4BD-4F96-A41C-0D91DFF88CAC}](https://github.com/user-attachments/assets/825203d2-0234-48eb-ac0d-4b73400015b2)
+![{130B5FA1-2C99-4BCE-8C93-0B877066969F}](https://github.com/user-attachments/assets/f66da26a-d98b-495e-9600-918d5f4f8881)
+
+
 
 
 
