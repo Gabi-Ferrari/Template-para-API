@@ -79,27 +79,30 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
+>* Sprint 1 : Pesquisa Inicial, Análise Swot e Canva da Empresa.
+>* Sprint 2 : Sistema ERP
+>* Sprint 3 : Demanda Nacional e Internacional Anual
+>* Sprint 4 : Fluxo de Caixa Anual
 
-### GitHub: Controle de versão e colaboração em projetos.
-
-### 3DExperience: Plataforma para design e engenharia colaborativa.
-
-### Microsoft Teams: Comunicação e colaboração em equipe.
-
-### Canva:  Criação de designs gráficos e apresentações.
-
-### Excel : Análise de dados e gestão de planilhas.
-
-### Power BI: Visualização de dados e relatórios interativos.
-
-### Google Apresentações: Criação de apresentações online.
-
-### Google Planilhas: Edição e colaboração em planilhas na nuvem.
 
 
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+>* ### GitHub: Controle de versão e colaboração em projetos.
+
+>* ### 3DExperience: Plataforma para design e engenharia colaborativa.
+
+>* ### Microsoft Teams: Comunicação e colaboração em equipe.
+
+>* ### Canva:  Criação de designs gráficos e apresentações.
+
+>* ### Excel : Análise de dados e gestão de planilhas.
+
+>* ### Power BI: Visualização de dados e relatórios interativos.
+
+>* ### Google Apresentações: Criação de apresentações online.
+
+>* ### Google Planilhas: Edição e colaboração em planilhas na nuvem.
   
 
 
